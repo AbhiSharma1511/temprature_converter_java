@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="todo">Todo</string>
+    <string name="temperature_is_a_physical_quantity_that_expresses_hot_and_cold_it_is_the_manifestation_of_thermal_energy_present_in_all_matter_which_is_the_source_of_the_occurrence_of_heat_a_flow_of_energy_when_a_body_is_in_contact_with_another_that_is_colder_or_hotter">Temperature is a physical quantity that expresses hot and cold. It is the manifestation of thermal energy, present in all matter, which is the source of the occurrence of heat, a flow of energy, when a body is in contact with another that is colder or hotter.......</string>
+    <string name="temp_info">Temperature is a physical quantity that expresses hot and cold. It is the manifestation of thermal energy, present in all matter, which is the source of the occurrence of heat, a flow of energy, when a body is in contact with another that is colder or hotter.
+        Temperature is measured with a thermometer. Thermometers are calibrated in various temperature scales that historically have used various reference points and thermometric substances for definition. The most common scales are the Celsius scale (formerly called centigrade, denoted as °C), the Fahrenheit scale (denoted as °F), and the Kelvin scale (denoted as K), the last of which is predominantly used for scientific purposes by conventions of the International System of Units (SI).
+The lowest theoretical temperature is absolute zero, at which no more thermal energy can be extracted from a body. Experimentally, it can only be approached very closely (100 pK), but not reached, which is recognized in the third law of thermodynamics.
+Temperature is important in all fields of natural science, including physics, chemistry, Earth science, astronomy, medicine, biology, ecology, material science, metallurgy, mechanical engineering and geography as well as most aspects of daily life.
+
+</string>
+</resources>

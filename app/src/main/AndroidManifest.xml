@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tempratureconverter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TempratureConverter">
+        <activity android:name=".CelsiusToKelvin"></activity>
+        <activity android:name=".FahrenheitToKelvin" />
+        <activity android:name=".KelvinToFahrenheit" />
+        <activity android:name=".KelvinToCelsius" />
+        <activity android:name=".FahrenheitToCelsius" />
+        <activity android:name=".celsiusToFahrenheit" />
+        <activity android:name=".temp_activity2" />
+        <activity android:name=".InfoActivity2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
